@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/chandanevuri](https://linktr.ee/chandanevuri)
-
 - 💬 Ask me about **Machine Learning, Data Science**
 
 - 📫 How to reach me **chandan.evuri@gmail.com**
